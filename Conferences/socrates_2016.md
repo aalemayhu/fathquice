@@ -1,5 +1,5 @@
 Before forgetting all of the awesome stuff people have told me about at
-[socrates][0]. I would like to collect them here together with the things I have
+[SoCraTes][0]. I would like to collect them here together with the things I have
 recommended others. Thanks to everyone who was kind and shared their knowledge.
 
 ## Podcasts
