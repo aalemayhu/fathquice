@@ -2,6 +2,8 @@ Before forgetting all of the awesome stuff people have told me about at
 [SoCraTes][0]. I would like to collect them here together with the things I have
 recommended others. Thanks to everyone who was kind and shared their knowledge.
 
+(this is not an extensive list, remembering stuff is hard ;)
+
 ## Podcasts
 
 - [Codenewbie][1] - the most supportive community of programmers and people
