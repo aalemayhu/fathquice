@@ -57,6 +57,7 @@ that care about their craft
 
 - [Ares][17] - centers on young swordsman Ares and takes place in a world
   similar to Ancient Rome
+- [Weekly Shōnen Jump][20] - best-selling manga magazine
 
 [0]: https://www.socrates-conference.de/
 [1]: http://www.codenewbie.org/
@@ -78,3 +79,4 @@ that care about their craft
 [17]: https://en.wikipedia.org/wiki/Ares_(manhwa)
 [18]: http://gource.io/
 [19]: http://wicket.apache.org/
+[20]: https://en.wikipedia.org/wiki/Weekly_Sh%C5%8Dnen_Jump
