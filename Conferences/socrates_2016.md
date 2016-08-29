@@ -21,11 +21,11 @@ to add something, please send a pull request!
 ## Books
 
 - Extreme Programming Explained
+- Professor Frisby's Mostly Adequate Guide to Functional Programming
 
 ## Papers
 
 - A Dynamic Program Analysis to find Floating-Point Accuracy Problems
-- Professor Frisby's Mostly Adequate Guide to Functional Programming
 
 ## Projects
 
