@@ -26,6 +26,7 @@ to add something, please send a pull request!
 ## Papers
 
 - A Dynamic Program Analysis to find Floating-Point Accuracy Problems
+- Out of the Tar Pit
 
 ## Projects
 
